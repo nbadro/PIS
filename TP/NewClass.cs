@@ -7,5 +7,6 @@ namespace TP
 {
     class NewClass
     {
+        //hehe
     }
 }
