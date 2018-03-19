@@ -9,6 +9,7 @@ namespace TP
     {
         void metoda()
         {
+            int a=0;
         }
     }
 }
