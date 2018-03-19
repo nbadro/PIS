@@ -9,6 +9,7 @@ namespace TP
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
