@@ -7,5 +7,8 @@ namespace TP
 {
     class NewClass
     {
+        void metoda()
+        {
+        }
     }
 }
